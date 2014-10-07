@@ -10,29 +10,29 @@
 	<string>CDSideBar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>23C48631-0FEA-404E-AFE5-5BA5EB6BD5E7</key>
+		<key>4155EB27E924293C270F0A40350D8CC5DC205638</key>
 		<string>https://github.com/christophedellac/CDSideBarController</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CDSideBar.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>23C48631-0FEA-404E-AFE5-5BA5EB6BD5E7</key>
+		<key>4155EB27E924293C270F0A40350D8CC5DC205638</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/christophedellac/CDSideBarController</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>23C48631-0FEA-404E-AFE5-5BA5EB6BD5E7</string>
+	<string>4155EB27E924293C270F0A40350D8CC5DC205638</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>23C48631-0FEA-404E-AFE5-5BA5EB6BD5E7</string>
+			<string>4155EB27E924293C270F0A40350D8CC5DC205638</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CDSideBarController</string>
 		</dict>
