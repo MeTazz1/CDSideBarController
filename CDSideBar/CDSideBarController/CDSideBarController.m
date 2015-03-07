@@ -47,6 +47,7 @@
     [view addSubview:_menuButton];
     
     UITapGestureRecognizer *singleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(dismissMenu)];
+    singleTap.cancelsTouchesInView = NO;
     [view addGestureRecognizer:singleTap];
     
     for (UIButton *button in _buttonList)
