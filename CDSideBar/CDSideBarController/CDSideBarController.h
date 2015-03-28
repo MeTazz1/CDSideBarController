@@ -26,7 +26,7 @@
 @property (nonatomic, retain) UIColor *menuColor;
 @property (nonatomic) BOOL isOpen;
 
-@property (nonatomic, retain) id<CDSideBarControllerDelegate> delegate;
+@property (nonatomic, weak) id<CDSideBarControllerDelegate> delegate;
 
 - (CDSideBarController*)initWithImages:(NSArray*)buttonList;
 - (void)insertMenuButtonOnView:(UIView*)view atPosition:(CGPoint)position;
